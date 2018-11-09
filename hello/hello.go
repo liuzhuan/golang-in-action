@@ -7,4 +7,4 @@ func main() {
 }
 
 // if `go run hello.go`, it will complain: "go run: cannot run non-main package"
-// if `go run build.go`, nothing will happen
+// if `go build hello.go`, nothing will happen
